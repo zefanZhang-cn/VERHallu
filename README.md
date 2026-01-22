@@ -4,4 +4,4 @@ Official Implementation of ''VERHallu: Evaluating and Mitigating Event Relation 
 
 
 
-Our data and code will be available soon!!!!
+Our data is available at  https://www.alipan.com/s/vVmz3LQRmcw  !!!!
